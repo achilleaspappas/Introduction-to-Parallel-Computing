@@ -1,12 +1,12 @@
 # Introduction to Parallel Computing
 
-A university project for MPI
+A university project for MPI in C
 
 ## Requirements
 
 - [MPI](https://www.open-mpi.org/)
 - [WSL2 for Windows](https://docs.microsoft.com/en-us/windows/wsl/install) or any Linux distribution 
-- [GCC]()
+- [GCC](https://gcc.gnu.org/)
 
 Ypu can install GCC and MPI using
 ```
