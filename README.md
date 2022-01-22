@@ -8,7 +8,7 @@ A university project for MPI in C
 - [WSL2 for Windows](https://docs.microsoft.com/en-us/windows/wsl/install) or any Linux distribution 
 - [GCC](https://gcc.gnu.org/)
 
-Ypu can install GCC and MPI using
+You can install GCC and MPI using
 ```
 sudo apt install gcc
 sudo apt install mpi
